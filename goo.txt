@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 sss
 =======
-add good
+add good]
+nicess
 myechange
 >>>>>>> 2192a6e2bb83cec12a7d22efca436b86bfa996fb
